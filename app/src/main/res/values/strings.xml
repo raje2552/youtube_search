@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTube_Video_Search3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_get_statred">let\'s get statred</string>
+    <string name="this_welcome_image">this welcome image</string>
+</resources>
